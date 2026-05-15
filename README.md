@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # NFHS-India-Trends
 
 Reviving and modernizing an abandoned 2017 data analysis project on India's National Family Health Survey (NFHS) data using Python, Pandas, NumPy, and statistical analysis.
@@ -92,3 +93,6 @@ This is part 1 of me learning AI/ML engineering publicly while focusing on real 
 
 
 
+=======
+# Data Analysis project which aims to answer key questions from India's National Family Health Survey datasets
+>>>>>>> Stashed changes
