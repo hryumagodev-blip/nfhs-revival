@@ -49,7 +49,6 @@ Topics covered:
 * Correlation analysis
 * Data visualization
 * Feature engineering
-* Building composite health indices
 
 ---
 
@@ -70,7 +69,6 @@ Topics covered:
 * Exploratory Data Analysis (EDA)
 * Statistical findings
 * State-wise and district-wise comparisons
-* Custom health index built from scratch using NumPy
 * Visual dashboards and charts
 * Final analytical report
 
